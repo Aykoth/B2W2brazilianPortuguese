@@ -1,12 +1,12 @@
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
+Restaurar
+Estado
+Curas
 ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+Restaurar
+Itens de Batalha
+Pokébolas
+Último Item Usado
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,35 +19,35 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
+Próximo
 ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Restaurar
+Estado
+Curas
+Pokébola
+Itens de Batalha
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Usar
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
-しろいきりに　つつまれた！\xfffe
-\xf000Ă\x0001\x0000は\xfffeはりきっている
-\xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくこうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeすばやさが　あがった！
-\xf000Ă\x0001\x0000の\xfffeとくぼうが　あがった！
-\xf000Ă\x0001\x0000の\xfffeぼうぎょが　あがった！
-\xf000Ă\x0001\x0000の\xfffeめいちゅうりつが　あがった！
-\xf000ĉ\x0001\x0000を\xfffeつかった！
-だめだ！　２ひきいて\xfffeねらいが　さだまらない……！
-ボックスが　いっぱいです！
-\xf000ć\x0001\x0001の　こうかで\xfffe\xf000Ă\x0001\x0000には　つかえません！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-だめだ！　ポケモンが　みえなくて\xfffeねらいが　さだまらない……！
-エネルギーが　たりません
-アララギの　ことば……\xfffeこういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-しゅうちゅう　しないと\xfffeボールは　じょうずに　なげられない！
-ゲーチスの　つくった　そうちのせいで\xfffeボールは　つかえない！！
+Isto não fará nenhum efeito.
+Estava envolvido em uma névoa branca! \xfffe
+\xf000Ă\x0001\x0000は\xfffeestá ficando bombado!
+\xf000Ă\x0001\x0000の\xfffeaumentou o Ataque!
+\xf000Ă\x0001\x0000の\xfffeaumentou o Ataque Especial!
+\xf000Ă\x0001\x0000の\xfffeaumentou a Velocidade!
+\xf000Ă\x0001\x0000の\xfffeaumentou a Defesa Especial!
+\xf000Ă\x0001\x0000の\xfffeaumentou a Defesa!
+\xf000Ă\x0001\x0000の\xfffeaumentou a Precisão!
+\xf000ĉ\x0001\x0000を\xfffefoi usado!
+Não é bom! 2 Pokémons\xfffefazem com que mirar seja impossível……!
+Não há mais espaço livre no pc！
+Os efeitos de\xf000ć\x0001\x0001 fazem impossível usá-los em\xfffe\xf000Ă\x0001\x0000!
+Não é bom! É impossível mirar em um pokémon fora de alcance……!
+Não é bom! É impossível mirar em um pokémon fora de alcance……!
+Não está carregado o bastante.
+Professora Juniper lembra……\xfffeHá lugar e tempo para tudo! Mas não agora.\xf000븀\x0000\xfffe
+É impossível jogar a\xfffesem estar concentrado！
+A bola não pode ser usada por causa do dispositivo de Ghetsis usou!
